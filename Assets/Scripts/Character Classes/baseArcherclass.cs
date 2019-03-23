@@ -18,7 +18,7 @@ public class baseArcherclass : baseCharacterClass
     {
 
         CharacterClassName = "Archer";
-        CharacterClassDescription = "A swift and precise long range killer. Often you become aware of its presence by the trail of bodies that appear.";
+        CharacterClassDescription = "A swift and precise long range killer. Often you become aware of its presence by the trail of bodies that appear. TEST WORD";
 
 
         ///-----------------///
